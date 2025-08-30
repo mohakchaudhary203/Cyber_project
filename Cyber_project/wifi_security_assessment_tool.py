@@ -123,12 +123,7 @@ def start_gui():
 # -------------------------------
 if __name__ == "__main__":
     start_gui()
-# Wi-Fi Security Assessment Tool v1.000 by OpenAI GPT4
-# GitHub:   
-# Twitter:   
-# Discord:  
-# Telegram:   
-# Email:    
+# Wi-Fi Security Assessment Tool v1.000 by OpenAI GPT4    
 # License: MIT License
 # Disclaimer: Use at your own risk. The author is not responsible for any misuse or damage caused by this tool. 
 # Always ensure you have permission to test the security of any network. Unauthorized access to networks is illegal and unethical. 
